@@ -45,7 +45,7 @@ This project demonstrates an **end-to-end data analytics workflow**—from raw d
 
 ## 📊 Dashboard Preview
 
-(https://github.com/darikson-creator/customer-behavior-analysis/blob/0299653beee39683528e0aafc3abdf10d8ae7022/Report.png)
+ ![image alt](https://github.com/darikson-creator/customer-behavior-analysis/blob/0299653beee39683528e0aafc3abdf10d8ae7022/Report.png)
 
 
 ## 📈 Key Results & Insights
