@@ -63,11 +63,3 @@ Ensure you have the following installed on your machine:
 * Jupyter Notebook / VS Code
 * MySQL Server & MySQL Workbench
 * Power BI Desktop
-
-
-🤝 Connect
-Author: Darikson Calle
-
-LinkedIn: https://www.linkedin.com/in/dariksoncalle/
-
-Portfolio/GitHub: https://github.com/darikson-creator?tab=repositories
